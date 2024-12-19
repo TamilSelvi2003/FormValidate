@@ -2,6 +2,7 @@
   "name": "crud",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://tamilselvi2003.github.io/CRUD/",
   "type": "module",
   "scripts": {
     "dev": "vite",
